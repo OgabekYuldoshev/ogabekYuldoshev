@@ -4,7 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Hello everyone, my full name is Ogabek Yuldoshev, my age is 22, I am from Uzbekistan. I have a lot of interests, music, sports and creating new things, especially love to find a solution to problems. In my eyes, the person who was able to solve the problems in front of me will continue to be a displaced person. I love to relax very much especially if it is found in nature, I like to spend more of my free time with my family, learning new things and being busy with what I like. As a Web Developer, my role is to create new websites and platforms and develop supporting UI packages for them. Mostly I am responsible for the user interface, I usually use Typescript and Javascript and related technologies Reactjs, Nodejs. Since my task is more for the frontend, I create user interfaces in ReactJs, but sometimes the backend works, for which I use Nodejs. Nodejs is convenient and reliable for generating documents, creating chats and sending notifications. Also, I really like working with a team because it's a lot of fun with them, the biggest advantage of working with a team is that when a problem arises, you need to hear the opinions of many people, which in itself causes the solution to the problem to be solved faster.
+Hi ✋,
+
+🧾Briefly about myself:
+I am a Fullstack developer with 4+ years of experience😎. I participated in many projects and contributed to them. My main interests are optimization and code validation💪. I mainly use ReactJs technology for Frontend and Expressjs for Backend. I have 4+ years of experience in ReactJs and 3+ years in Nodejs ExpressJs🧑‍💻. I mostly write my projects entirely in Typescript and it helps me a lot to avoid errors⚠️. Platforms and online stores are the basis of my work🏪. If I have to do the project myself, I prefer to use Nextjs. As for the database, depending on the project, I choose either MongoDB or Postgres 📅. Currently, I am focusing on how to create and optimize libraries used in web development. Web page optimization saves time and budget for the client 😉.
+
+Nice to see you on my profile)
 
 * 🌍  I'm based in Uzbekistan, Tashkent
 * 🖥️  See my portfolio at [Ogabek Yuldashov](http://www.yuldashoff.uz/)
